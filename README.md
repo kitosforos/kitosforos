@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&layout=compact&theme=nord&langs_count=10&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&layout=compact&theme=nord&langs_count=10&hide=php)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 
 <p align="center">
