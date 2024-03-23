@@ -1,9 +1,18 @@
-<div align="center">
-<h1 align="center">Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, soy Marcos</h1>
-<h4 align="center">Estudiante de Ingeniería</h4>
-<h4 align="center">Informática UAM y de 42</h4>
-</div>
-
-<p align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla76uy8800160fl354onbx1b/stats?cursusId=21&coalitionId=66" alt="maralons-'s 42 stats" /></a>
-</p>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <header>
+        <h1>¡Hola! Soy Marcos Alonso 👋</h1>
+    </header>
+    <section>
+        <p>Tengo 20 años y soy estudiante universitario con una pasión por el desarrollo de software y la innovación tecnológica.</p>
+        <p>Actualmente, divido mi tiempo entre estudiar en la <strong>Universidad Autónoma de Madrid (UAM)</strong> y la <strong>Universidad de Bergen (UiB)</strong>, lo cual me proporciona una perspectiva diversa y enriquecedora en mis campos de interés.</p>
+        <h2>¿Qué encontrarás aquí?</h2>
+        <p>En mi perfil de GitHub, compartiré proyectos, colaboraciones y cualquier otra contribución que realice en el mundo del desarrollo y la programación. Mi objetivo es aprender constantemente, mejorar y contribuir a la comunidad.</p>
+        <p>¡Gracias por visitar mi perfil! No dudes en conectarte conmigo.</p>
+    </section>
+</body>
+</html>
