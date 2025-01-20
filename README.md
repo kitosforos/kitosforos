@@ -14,5 +14,9 @@
         <p>En mi perfil de GitHub, compartiré proyectos, colaboraciones y cualquier otra contribución que realice en el mundo del desarrollo y la programación. Mi objetivo es aprender constantemente, mejorar y contribuir a la comunidad.</p>
         <p>¡Gracias por visitar mi perfil! No dudes en conectarte conmigo.</p>
     </section>
+
+    <h2>Lenguajes más utilizados</h2>
+    
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&layout=compact&theme=dark&hide_border=true&langs_count=8)
 </body>
 </html>
