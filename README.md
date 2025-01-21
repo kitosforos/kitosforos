@@ -12,4 +12,4 @@ En mi perfil de GitHub, compartiré proyectos, colaboraciones y cualquier otra c
 
 ## Lenguajes más utilizados
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&layout=compact&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos)](https://github.com/anuraghazra/github-readme-stats)
