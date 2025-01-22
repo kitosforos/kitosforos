@@ -1,8 +1,10 @@
 # ¡Hola! Soy Marcos Alonso 👋
 
-Tengo 20 años y soy estudiante universitario con una pasión por el desarrollo de software y la innovación tecnológica.
+Tengo 21 años y soy estudiante universitario con una pasión por el desarrollo de software y la innovación tecnológica.
 
-Actualmente, divido mi tiempo entre estudiar en la **Universidad Autónoma de Madrid (UAM)** y la **Universidad de Bergen (UiB)**, lo cual me proporciona una perspectiva diversa y enriquecedora en mis campos de interés.
+Estoy en el último año de Ingeniería Informática en la Universidad Autónoma de Madrid. Estudié tercero de carrera en Universitetet i Bergen, en Noruega, donde me especialicé en IA y deep learning.
+Soy estudiante en el cursus 42 Madrid.
+Tengo una gran afición en la programación, gustandome temas también como la programación competitiva, algoritmia, y compiladores.
 
 ## ¿Qué encontrarás aquí?
 
