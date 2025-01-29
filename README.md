@@ -12,6 +12,7 @@ En mi perfil de GitHub, compartiré proyectos, colaboraciones y cualquier otra c
 
 ¡Gracias por visitar mi perfil! No dudes en conectarte conmigo.
 
-## Lenguajes más utilizados
+## Estadísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitosforos&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&layout=compact&theme=radical)
