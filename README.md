@@ -14,5 +14,5 @@ En mi perfil de GitHub, compartiré proyectos, colaboraciones y cualquier otra c
 
 ## Estadísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitosforos&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitosforos&show_icons=true&theme=radical&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&layout=compact&theme=radical)
