@@ -16,8 +16,6 @@ En mi perfil de GitHub, compartiré proyectos, colaboraciones y cualquier otra c
 <table>
   <tr>
     <td><a href="https://github.com/kitosforos/kitosforos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kitosforos&show_icons=true&line_height=33,5&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kitosforos's GitHub Stats" /></td>
-    <td><a href="https://github.com/kitosforos/kitosforos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&card_width=468&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" /></td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&card_width=468&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2" /></td>
   </tr>
 </table>
