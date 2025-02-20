@@ -12,7 +12,12 @@ En mi perfil de GitHub, compartiré proyectos, colaboraciones y cualquier otra c
 
 ¡Gracias por visitar mi perfil! No dudes en conectarte conmigo.
 
-## Estadísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitosforos&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&layout=compact&theme=radical)
+## Github Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<table>
+  <tr>
+    <td><a href="https://github.com/kitosforos/kitosforos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kitosforos&show_icons=true&line_height=33,5&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kitosforos's GitHub Stats" /></td>
+    <td><a href="https://github.com/kitosforos/kitosforos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&card_width=468&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" /></td>
+  </tr>
+</table>
