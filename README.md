@@ -1,21 +1,37 @@
-# ¡Hola! Soy Marcos Alonso 👋
+# Marcos Alonso 🖥️
 
-Tengo 21 años y soy estudiante universitario con una pasión por el desarrollo de software y la innovación tecnológica.
+## Sobre mí
+Ingeniero Informático (Universidad Autónoma de Madrid). Actualmente trabajo en **Robotización y Automatización de procesos en Telefónica**, donde trabajo para optimizar flujos de trabajo y desarrollar soluciones eficientes.
 
-Estoy en el último año de Ingeniería Informática en la Universidad Autónoma de Madrid. Estudié tercero de carrera en Universitetet i Bergen, en Noruega, donde me especialicé en IA y deep learning.
-Soy estudiante en el cursus 42 Madrid.
-Tengo una gran afición en la programación, gustandome temas también como la programación competitiva, algoritmia, y compiladores.
+Durante mi estancia en la **Universitetet i Bergen** (Noruega) me especialicé en IA y deep learning.
 
-## ¿Qué encontrarás aquí?
+En mi **TFG**, invesatigué acerca de IA Generativa, mas concretamente en modelos de difusión y en GANs.
 
-En mi perfil de GitHub, compartiré proyectos, colaboraciones y cualquier otra contribución que realice en el mundo del desarrollo y la programación. Mi objetivo es aprender constantemente, mejorar y contribuir a la comunidad.
+También soy estudiante en **42 Madrid**, donde busco ampliar mis conocimientos con el Peer to Peer, y formar una red de contactos del mundo del desarrollo.
 
-¡Gracias por visitar mi perfil! No dudes en conectarte conmigo.
+## Herramientas y tecnologías
+## Herramientas y tecnologías
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgresQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Github-Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## Github Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-<table>
-  <tr>
-    <td><a href="https://github.com/kitosforos/kitosforos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitosforos&card_width=468&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2" /></td>
-  </tr>
-</table>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitosforos&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-two-76.vercel.app/api/top-langs/?username=kitosforos&layout=compact&theme=tokyonight&count_private=true" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=kitosforos&theme=tokyonight" />
+</div>
