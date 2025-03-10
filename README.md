@@ -10,7 +10,6 @@ En mi **TFG**, invesatigué acerca de IA Generativa, mas concretamente en modelo
 También soy estudiante en **42 Madrid**, donde busco ampliar mis conocimientos con el Peer to Peer, y formar una red de contactos del mundo del desarrollo.
 
 ## Herramientas y tecnologías
-## Herramientas y tecnologías
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
